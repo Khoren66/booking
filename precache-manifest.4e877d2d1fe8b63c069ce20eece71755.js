@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "004e81a4fed73a987f8c11e83830a435",
+    "revision": "7aeb2d72f1a371654470f3dba96b1099",
     "url": "/booking/index.html"
   },
   {
-    "revision": "acb27603b452471e194a",
+    "revision": "20b90981b6edeb90f941",
     "url": "/booking/static/css/main.c0b047c5.chunk.css"
   },
   {
-    "revision": "86674c6ba4db9d4f7010",
-    "url": "/booking/static/js/2.93591f3f.chunk.js"
+    "revision": "4af049144a51f666b294",
+    "url": "/booking/static/js/2.9d5c774b.chunk.js"
   },
   {
     "revision": "84a2a7a390df1ac99fa4fadf23155e60",
-    "url": "/booking/static/js/2.93591f3f.chunk.js.LICENSE"
+    "url": "/booking/static/js/2.9d5c774b.chunk.js.LICENSE"
   },
   {
-    "revision": "acb27603b452471e194a",
-    "url": "/booking/static/js/main.2a5ef42c.chunk.js"
+    "revision": "20b90981b6edeb90f941",
+    "url": "/booking/static/js/main.2b7ec6d7.chunk.js"
   },
   {
     "revision": "1d58a7444846e9704145",
