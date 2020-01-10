@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/booking/static/css/main.d75e2ce3.chunk.css",
-    "main.js": "/booking/static/js/main.1d5b3be3.chunk.js",
-    "main.js.map": "/booking/static/js/main.1d5b3be3.chunk.js.map",
+    "main.js": "/booking/static/js/main.7470b4b6.chunk.js",
+    "main.js.map": "/booking/static/js/main.7470b4b6.chunk.js.map",
     "runtime-main.js": "/booking/static/js/runtime-main.ba539fcf.js",
     "runtime-main.js.map": "/booking/static/js/runtime-main.ba539fcf.js.map",
     "static/js/2.f3614e0a.chunk.js": "/booking/static/js/2.f3614e0a.chunk.js",
     "static/js/2.f3614e0a.chunk.js.map": "/booking/static/js/2.f3614e0a.chunk.js.map",
     "index.html": "/booking/index.html",
-    "precache-manifest.82e98953318b83deeab3a89e0af5c1d9.js": "/booking/precache-manifest.82e98953318b83deeab3a89e0af5c1d9.js",
+    "precache-manifest.8ca639a0baae6ea1a7ff3d666b80872f.js": "/booking/precache-manifest.8ca639a0baae6ea1a7ff3d666b80872f.js",
     "service-worker.js": "/booking/service-worker.js",
     "static/css/main.d75e2ce3.chunk.css.map": "/booking/static/css/main.d75e2ce3.chunk.css.map",
     "static/js/2.f3614e0a.chunk.js.LICENSE": "/booking/static/js/2.f3614e0a.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ba539fcf.js",
     "static/js/2.f3614e0a.chunk.js",
     "static/css/main.d75e2ce3.chunk.css",
-    "static/js/main.1d5b3be3.chunk.js"
+    "static/js/main.7470b4b6.chunk.js"
   ]
 }
